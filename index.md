@@ -1,36 +1,14 @@
 ## Global Superstore Power BI Dashboard
 
+Global Super Store is a data set that has around 50000 values. It’s a customer-centric data set, which has the data of all the orders that have been placed through different vendors and markets, starting from the year 2011 till 2015
+
+The dashboard contains the summary cards of Total customers, Total profit, operational cities, the total count of products, total orders placed, and quantity.
+Countries and the regions of customers are presented using the Map to understand the operational regions
+A stacked bar chart is used to present the profit by country in descending order of profit
+As a Pie chart make sense to show a parts-to-whole relationship for categorical or nominal data, the slices in the pie represent Sales by Segment, Sales by Ship mode, Sales by Category, which helped to understand which categorical data has the highest sales
+Profit of products by ship mode and category are presented using Clustered column chart and it clearly compares which category sales better in which ship mode type
+Finally, the Stacked area chart is used to present the profit by quantity of orders placed by region
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BhatShilp/PowerBI-Project-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.[Global Superstore.pptx](https://github.com/BhatShilp/PowerBI-Project-Portfolio/files/8601015/Global.Superstore.pptx)
 
