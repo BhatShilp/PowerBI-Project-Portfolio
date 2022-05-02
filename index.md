@@ -1,4 +1,4 @@
-## Global Superstore Power BI Dashboard
+# Global Superstore Power BI Dashboard
 
 Global Super Store is a data set that has around 50000 values. It’s a customer-centric data set, which has the data of all the orders that have been placed through different vendors and markets, starting from the year 2011 till 2015
 
@@ -12,3 +12,4 @@ Finally, the Stacked area chart is used to present the profit by quantity of ord
 
 
 
+![image](https://user-images.githubusercontent.com/104180164/166192476-b853f131-9f2c-4fe1-ab57-560ef1f65a1d.png)
